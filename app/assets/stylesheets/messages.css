@@ -39,7 +39,9 @@
 }
 
 .room {
-  padding: 20px 0 40px;
+  padding: 20px 0 20px;
+  border-top: solid 1px #5989cf;
+  border-bottom: solid 1px #5989cf;
 }
 
 .room-name a {
